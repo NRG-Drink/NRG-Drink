@@ -1,7 +1,7 @@
+## Hi there 👋
 <p align="center"><img src="/metrics-user-classic.svg" alt="Metrics" width="400"></p>
 
 <!--
-## Hi there 👋
 
 **NRG-Drink/NRG-Drink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
